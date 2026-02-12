@@ -1,0 +1,4 @@
+interface:
+  display_name: "LoRA Captioner"
+  short_description: "Plan-first LoRA captions with trigger words."
+  default_prompt: "Create detailed per-image captions for LoRA training. Always ask for the trigger word, then caption each image with rich detail and save matching .txt files."
